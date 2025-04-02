@@ -3,7 +3,6 @@
 
 引入讯飞星火大模型针对卦象对问题进行分析
 
-体验网址：[https://divinate.abnerz6.top](https://divinate.abnerz6.top/)
 
 ![alt text](image.png)
 
