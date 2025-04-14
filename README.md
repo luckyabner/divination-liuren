@@ -1,3 +1,4 @@
+# 该项目已集成到[HexVerse](https://github.com/luckyabner/HexVerse)
 # 小六壬起卦，AI解卦
 根据时辰或指定的三个数快速起卦
 
